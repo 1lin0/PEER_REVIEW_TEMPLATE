@@ -41,7 +41,7 @@ My estimated contribution: **33%**
 
 ## Section B — Peer Assessments
 
-### B1. Assessment of Teammate 1: cammie20260621
+### B1. Assessment of Teammate 1: 薛閔云
 
 #### What did this teammate deliver?
 Responsible for the relational DB setup. They wrote the data tables and constraints in `databases/relational/schema.sql`, and built the query functions in `databases/relational/queries.py` so the AI agent can look up transactional user records.
@@ -64,7 +64,7 @@ My estimate of their contribution: **33%**
 
 ---
 
-### B2. Assessment of Teammate 2: Oeo941014
+### B2. Assessment of Teammate 2: 張藝齡
 
 #### What did this teammate deliver?
 Handled the Graph DB domain. They created the Neo4j station nodes and transit route edges in `databases/graph/seed.cypher`, and coded the pathfinding and transfer algorithms in `databases/graph/queries.py`.
@@ -91,9 +91,9 @@ My estimate of their contribution: **33%**
 
 | Member | Your estimated % | Notes |
 |--------|----------------|-------|
-| Yourself | 25% | Seeding routines, ERD engineering, documentation layout, and integration checks. |
-| cammie20060621 | 45% | Relational table generation, constraint models, and relational SQL queries. |
-| Oeo941014 | 30% | Neo4j network mapping, Cypher scripts, and spatial route queries. |
+| 松怡琳 | 25% | Seeding routines, ERD engineering, documentation layout, and integration checks. |
+| 薛閔云 | 45% | Relational table generation, constraint models, and relational SQL queries. |
+| 張藝齡 | 30% | Neo4j network mapping, Cypher scripts, and spatial route queries. |
 | **Total** | **100%** | |
 
 ---
